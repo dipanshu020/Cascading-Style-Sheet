@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        *{
+            margin: 0px;
+            padding: 10px;
+        }
+        h1{
+            color: red;
+            font-size: 30px;
+        }
+        #address{
+            color: green;
+            background-color: lightcyan;
+            font-size: 25px;
+        }
+        .pro{
+            color: blue;
+            background-color: skyblue;
+            font-size: 22px;
+            font-weight: 500;
+        }
+        h3{
+            color: aqua;
+        }
+
+        h4, h5, h6{
+            color: blueviolet;
+            background-color: aquamarine;
+            font-size: 18px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Hello! My name is Dipanshu Gupta</h1>
+    <h2 id="address">I am From Shahjahanpur</h2>
+    <p class="pro"> B.Tech (CSE) graduate and fresher with solid foundations in Java, Python, DSA and ML. 
+    Seeking an entry-level software role to build real-world products while learning modern 
+    development practices.</p>
+    <h3>DSA with Java</h3>
+    <h4>Frontend Development</h4>
+    <h5>Machine learning</h5>
+    <h6>Operating System</h6>
+</body>
+</html>
