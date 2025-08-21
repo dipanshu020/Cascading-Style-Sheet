@@ -1,0 +1,35 @@
+/* Universal Selector */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#select{
+    color: green;
+}
+
+h2{
+    color: magenta;
+    background-color: yellow;
+    height: 28px;
+    width: 200px;
+}
+
+.first{
+    color: pink;
+}
+
+.second{
+    color: red;
+}
+
+
+h1, h2, h3{
+    color:green;
+}
+
+
+div p{
+    color: red;
+}
+
